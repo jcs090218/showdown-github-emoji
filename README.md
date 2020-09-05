@@ -4,4 +4,4 @@
 
 ## :scroll: License
 
-[MIT][license] © [Shen, Jen-Chieh][website]
+[MIT]() © [Shen, Jen-Chieh][]
